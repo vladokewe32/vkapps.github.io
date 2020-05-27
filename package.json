@@ -1,0 +1,14 @@
+{
+  "name": "varenik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.b45837c7.chunk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vkontakte/vk-bridge": "^2.2.2"
+  }
+}
